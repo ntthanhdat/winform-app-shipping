@@ -1,0 +1,92 @@
+C:\Users\vanha\source\repos\Quản Lí  Ship Hàng\Quản Lí  Ship Hàng\bin\Debug\Quản Lí  Ship Hàng.exe.config
+C:\Users\vanha\source\repos\Quản Lí  Ship Hàng\Quản Lí  Ship Hàng\bin\Debug\Quản Lí  Ship Hàng.exe
+C:\Users\vanha\source\repos\Quản Lí  Ship Hàng\Quản Lí  Ship Hàng\bin\Debug\Quản Lí  Ship Hàng.pdb
+C:\Users\vanha\source\repos\Quản Lí  Ship Hàng\Quản Lí  Ship Hàng\obj\Debug\Quản Lí  Ship Hàng.csprojAssemblyReference.cache
+C:\Users\vanha\source\repos\Quản Lí  Ship Hàng\Quản Lí  Ship Hàng\obj\Debug\Quản_Lí__Ship_Hàng.Fnguoinhan.resources
+C:\Users\vanha\source\repos\Quản Lí  Ship Hàng\Quản Lí  Ship Hàng\obj\Debug\Quản_Lí__Ship_Hàng.Fnhanvien.resources
+C:\Users\vanha\source\repos\Quản Lí  Ship Hàng\Quản Lí  Ship Hàng\obj\Debug\Quản_Lí__Ship_Hàng.Fmathang.resources
+C:\Users\vanha\source\repos\Quản Lí  Ship Hàng\Quản Lí  Ship Hàng\obj\Debug\Quản_Lí__Ship_Hàng.Fmain.resources
+C:\Users\vanha\source\repos\Quản Lí  Ship Hàng\Quản Lí  Ship Hàng\obj\Debug\Quản_Lí__Ship_Hàng.Fdangnhap.resources
+C:\Users\vanha\source\repos\Quản Lí  Ship Hàng\Quản Lí  Ship Hàng\obj\Debug\Quản_Lí__Ship_Hàng.Ftaikhoan.resources
+C:\Users\vanha\source\repos\Quản Lí  Ship Hàng\Quản Lí  Ship Hàng\obj\Debug\Quản_Lí__Ship_Hàng.Properties.Resources.resources
+C:\Users\vanha\source\repos\Quản Lí  Ship Hàng\Quản Lí  Ship Hàng\obj\Debug\Quản_Lí__Ship_Hàng.Fdonhang.resources
+C:\Users\vanha\source\repos\Quản Lí  Ship Hàng\Quản Lí  Ship Hàng\obj\Debug\Quản Lí  Ship Hàng.csproj.GenerateResource.cache
+C:\Users\vanha\source\repos\Quản Lí  Ship Hàng\Quản Lí  Ship Hàng\obj\Debug\Quản Lí  Ship Hàng.csproj.CoreCompileInputs.cache
+C:\Users\vanha\source\repos\Quản Lí  Ship Hàng\Quản Lí  Ship Hàng\obj\Debug\Quản Lí  Ship Hàng.exe
+C:\Users\vanha\source\repos\Quản Lí  Ship Hàng\Quản Lí  Ship Hàng\obj\Debug\Quản Lí  Ship Hàng.pdb
+C:\Users\vanha\source\repos\Quản Lí  Ship Hàng\Quản Lí  Ship Hàng\obj\Debug\Quản_Lí__Ship_Hàng.Fdichvu.resources
+C:\Users\vanha\source\repos\Quản Lí  Ship Hàng\Quản Lí  Ship Hàng\bin\Debug\BussinessLogic.dll
+C:\Users\vanha\source\repos\Quản Lí  Ship Hàng\Quản Lí  Ship Hàng\bin\Debug\Data.dll
+C:\Users\vanha\source\repos\Quản Lí  Ship Hàng\Quản Lí  Ship Hàng\bin\Debug\BussinessLogic.pdb
+C:\Users\vanha\source\repos\Quản Lí  Ship Hàng\Quản Lí  Ship Hàng\bin\Debug\Data.pdb
+C:\Users\vanha\source\repos\Quản Lí  Ship Hàng\Quản Lí  Ship Hàng\obj\Debug\Quản_Lí__Ship_Hàng.Fchitiet.resources
+C:\Users\vanha\source\repos\Quản Lí  Ship Hàng\Quản Lí  Ship Hàng\obj\Debug\Quản Lí  Ship Hàng.csproj.CopyComplete
+C:\C#\Quản Lí  Ship Hàng\Quản Lí  Ship Hàng\bin\Debug\Quản Lí  Ship Hàng.exe.config
+C:\C#\Quản Lí  Ship Hàng\Quản Lí  Ship Hàng\bin\Debug\Quản Lí  Ship Hàng.exe
+C:\C#\Quản Lí  Ship Hàng\Quản Lí  Ship Hàng\bin\Debug\Quản Lí  Ship Hàng.pdb
+C:\C#\Quản Lí  Ship Hàng\Quản Lí  Ship Hàng\bin\Debug\BussinessLogic.dll
+C:\C#\Quản Lí  Ship Hàng\Quản Lí  Ship Hàng\bin\Debug\Data.dll
+C:\C#\Quản Lí  Ship Hàng\Quản Lí  Ship Hàng\bin\Debug\BussinessLogic.pdb
+C:\C#\Quản Lí  Ship Hàng\Quản Lí  Ship Hàng\bin\Debug\Data.pdb
+C:\C#\Quản Lí  Ship Hàng\Quản Lí  Ship Hàng\obj\Debug\Quản Lí  Ship Hàng.csprojAssemblyReference.cache
+C:\C#\Quản Lí  Ship Hàng\Quản Lí  Ship Hàng\obj\Debug\Quản_Lí__Ship_Hàng.Fnguoinhan.resources
+C:\C#\Quản Lí  Ship Hàng\Quản Lí  Ship Hàng\obj\Debug\Quản_Lí__Ship_Hàng.Fchitiet.resources
+C:\C#\Quản Lí  Ship Hàng\Quản Lí  Ship Hàng\obj\Debug\Quản_Lí__Ship_Hàng.Fdichvu.resources
+C:\C#\Quản Lí  Ship Hàng\Quản Lí  Ship Hàng\obj\Debug\Quản_Lí__Ship_Hàng.Fnhanvien.resources
+C:\C#\Quản Lí  Ship Hàng\Quản Lí  Ship Hàng\obj\Debug\Quản_Lí__Ship_Hàng.Fmathang.resources
+C:\C#\Quản Lí  Ship Hàng\Quản Lí  Ship Hàng\obj\Debug\Quản_Lí__Ship_Hàng.Fmain.resources
+C:\C#\Quản Lí  Ship Hàng\Quản Lí  Ship Hàng\obj\Debug\Quản_Lí__Ship_Hàng.Fdangnhap.resources
+C:\C#\Quản Lí  Ship Hàng\Quản Lí  Ship Hàng\obj\Debug\Quản_Lí__Ship_Hàng.Ftaikhoan.resources
+C:\C#\Quản Lí  Ship Hàng\Quản Lí  Ship Hàng\obj\Debug\Quản_Lí__Ship_Hàng.Properties.Resources.resources
+C:\C#\Quản Lí  Ship Hàng\Quản Lí  Ship Hàng\obj\Debug\Quản_Lí__Ship_Hàng.Fdonhang.resources
+C:\C#\Quản Lí  Ship Hàng\Quản Lí  Ship Hàng\obj\Debug\Quản Lí  Ship Hàng.csproj.GenerateResource.cache
+C:\C#\Quản Lí  Ship Hàng\Quản Lí  Ship Hàng\obj\Debug\Quản Lí  Ship Hàng.csproj.CoreCompileInputs.cache
+C:\C#\Quản Lí  Ship Hàng\Quản Lí  Ship Hàng\obj\Debug\Quản Lí  Ship Hàng.csproj.CopyComplete
+C:\C#\Quản Lí  Ship Hàng\Quản Lí  Ship Hàng\obj\Debug\Quản Lí  Ship Hàng.exe
+C:\C#\Quản Lí  Ship Hàng\Quản Lí  Ship Hàng\obj\Debug\Quản Lí  Ship Hàng.pdb
+C:\Users\PHUONG\Desktop\Quản Lí  Ship Hàng\Quản Lí  Ship Hàng\bin\Debug\Quản Lí  Ship Hàng.exe.config
+C:\Users\PHUONG\Desktop\Quản Lí  Ship Hàng\Quản Lí  Ship Hàng\bin\Debug\Quản Lí  Ship Hàng.exe
+C:\Users\PHUONG\Desktop\Quản Lí  Ship Hàng\Quản Lí  Ship Hàng\bin\Debug\Quản Lí  Ship Hàng.pdb
+C:\Users\PHUONG\Desktop\Quản Lí  Ship Hàng\Quản Lí  Ship Hàng\bin\Debug\BussinessLogic.dll
+C:\Users\PHUONG\Desktop\Quản Lí  Ship Hàng\Quản Lí  Ship Hàng\bin\Debug\Data.dll
+C:\Users\PHUONG\Desktop\Quản Lí  Ship Hàng\Quản Lí  Ship Hàng\bin\Debug\BussinessLogic.pdb
+C:\Users\PHUONG\Desktop\Quản Lí  Ship Hàng\Quản Lí  Ship Hàng\bin\Debug\Data.pdb
+C:\Users\PHUONG\Desktop\Quản Lí  Ship Hàng\Quản Lí  Ship Hàng\obj\Debug\Quản Lí  Ship Hàng.csprojAssemblyReference.cache
+C:\Users\PHUONG\Desktop\Quản Lí  Ship Hàng\Quản Lí  Ship Hàng\obj\Debug\Quản_Lí__Ship_Hàng.Fnguoinhan.resources
+C:\Users\PHUONG\Desktop\Quản Lí  Ship Hàng\Quản Lí  Ship Hàng\obj\Debug\Quản_Lí__Ship_Hàng.Fchitiet.resources
+C:\Users\PHUONG\Desktop\Quản Lí  Ship Hàng\Quản Lí  Ship Hàng\obj\Debug\Quản_Lí__Ship_Hàng.Fdichvu.resources
+C:\Users\PHUONG\Desktop\Quản Lí  Ship Hàng\Quản Lí  Ship Hàng\obj\Debug\Quản_Lí__Ship_Hàng.Fnhanvien.resources
+C:\Users\PHUONG\Desktop\Quản Lí  Ship Hàng\Quản Lí  Ship Hàng\obj\Debug\Quản_Lí__Ship_Hàng.Fmathang.resources
+C:\Users\PHUONG\Desktop\Quản Lí  Ship Hàng\Quản Lí  Ship Hàng\obj\Debug\Quản_Lí__Ship_Hàng.Fmain.resources
+C:\Users\PHUONG\Desktop\Quản Lí  Ship Hàng\Quản Lí  Ship Hàng\obj\Debug\Quản_Lí__Ship_Hàng.Fdangnhap.resources
+C:\Users\PHUONG\Desktop\Quản Lí  Ship Hàng\Quản Lí  Ship Hàng\obj\Debug\Quản_Lí__Ship_Hàng.Ftaikhoan.resources
+C:\Users\PHUONG\Desktop\Quản Lí  Ship Hàng\Quản Lí  Ship Hàng\obj\Debug\Quản_Lí__Ship_Hàng.Properties.Resources.resources
+C:\Users\PHUONG\Desktop\Quản Lí  Ship Hàng\Quản Lí  Ship Hàng\obj\Debug\Quản_Lí__Ship_Hàng.Fdonhang.resources
+C:\Users\PHUONG\Desktop\Quản Lí  Ship Hàng\Quản Lí  Ship Hàng\obj\Debug\Quản Lí  Ship Hàng.csproj.GenerateResource.cache
+C:\Users\PHUONG\Desktop\Quản Lí  Ship Hàng\Quản Lí  Ship Hàng\obj\Debug\Quản Lí  Ship Hàng.csproj.CoreCompileInputs.cache
+C:\Users\PHUONG\Desktop\Quản Lí  Ship Hàng\Quản Lí  Ship Hàng\obj\Debug\Quản Lí  Ship Hàng.csproj.CopyComplete
+C:\Users\PHUONG\Desktop\Quản Lí  Ship Hàng\Quản Lí  Ship Hàng\obj\Debug\Quản Lí  Ship Hàng.exe
+C:\Users\PHUONG\Desktop\Quản Lí  Ship Hàng\Quản Lí  Ship Hàng\obj\Debug\Quản Lí  Ship Hàng.pdb
+C:\Users\vanha\Desktop\Quản Lí  Ship Hàng\Quản Lí  Ship Hàng\bin\Debug\Quản Lí  Ship Hàng.exe.config
+C:\Users\vanha\Desktop\Quản Lí  Ship Hàng\Quản Lí  Ship Hàng\bin\Debug\Quản Lí  Ship Hàng.exe
+C:\Users\vanha\Desktop\Quản Lí  Ship Hàng\Quản Lí  Ship Hàng\bin\Debug\Quản Lí  Ship Hàng.pdb
+C:\Users\vanha\Desktop\Quản Lí  Ship Hàng\Quản Lí  Ship Hàng\bin\Debug\BussinessLogic.dll
+C:\Users\vanha\Desktop\Quản Lí  Ship Hàng\Quản Lí  Ship Hàng\bin\Debug\Data.dll
+C:\Users\vanha\Desktop\Quản Lí  Ship Hàng\Quản Lí  Ship Hàng\bin\Debug\BussinessLogic.pdb
+C:\Users\vanha\Desktop\Quản Lí  Ship Hàng\Quản Lí  Ship Hàng\bin\Debug\Data.pdb
+C:\Users\vanha\Desktop\Quản Lí  Ship Hàng\Quản Lí  Ship Hàng\obj\Debug\Quản Lí  Ship Hàng.csprojAssemblyReference.cache
+C:\Users\vanha\Desktop\Quản Lí  Ship Hàng\Quản Lí  Ship Hàng\obj\Debug\Quản_Lí__Ship_Hàng.Fnguoinhan.resources
+C:\Users\vanha\Desktop\Quản Lí  Ship Hàng\Quản Lí  Ship Hàng\obj\Debug\Quản_Lí__Ship_Hàng.Fchitiet.resources
+C:\Users\vanha\Desktop\Quản Lí  Ship Hàng\Quản Lí  Ship Hàng\obj\Debug\Quản_Lí__Ship_Hàng.Fdichvu.resources
+C:\Users\vanha\Desktop\Quản Lí  Ship Hàng\Quản Lí  Ship Hàng\obj\Debug\Quản_Lí__Ship_Hàng.Fnhanvien.resources
+C:\Users\vanha\Desktop\Quản Lí  Ship Hàng\Quản Lí  Ship Hàng\obj\Debug\Quản_Lí__Ship_Hàng.Fmathang.resources
+C:\Users\vanha\Desktop\Quản Lí  Ship Hàng\Quản Lí  Ship Hàng\obj\Debug\Quản_Lí__Ship_Hàng.Fmain.resources
+C:\Users\vanha\Desktop\Quản Lí  Ship Hàng\Quản Lí  Ship Hàng\obj\Debug\Quản_Lí__Ship_Hàng.Fdangnhap.resources
+C:\Users\vanha\Desktop\Quản Lí  Ship Hàng\Quản Lí  Ship Hàng\obj\Debug\Quản_Lí__Ship_Hàng.Ftaikhoan.resources
+C:\Users\vanha\Desktop\Quản Lí  Ship Hàng\Quản Lí  Ship Hàng\obj\Debug\Quản_Lí__Ship_Hàng.Properties.Resources.resources
+C:\Users\vanha\Desktop\Quản Lí  Ship Hàng\Quản Lí  Ship Hàng\obj\Debug\Quản_Lí__Ship_Hàng.Fdonhang.resources
+C:\Users\vanha\Desktop\Quản Lí  Ship Hàng\Quản Lí  Ship Hàng\obj\Debug\Quản Lí  Ship Hàng.csproj.GenerateResource.cache
+C:\Users\vanha\Desktop\Quản Lí  Ship Hàng\Quản Lí  Ship Hàng\obj\Debug\Quản Lí  Ship Hàng.csproj.CoreCompileInputs.cache
+C:\Users\vanha\Desktop\Quản Lí  Ship Hàng\Quản Lí  Ship Hàng\obj\Debug\Quản Lí  Ship Hàng.csproj.CopyComplete
+C:\Users\vanha\Desktop\Quản Lí  Ship Hàng\Quản Lí  Ship Hàng\obj\Debug\Quản Lí  Ship Hàng.exe
+C:\Users\vanha\Desktop\Quản Lí  Ship Hàng\Quản Lí  Ship Hàng\obj\Debug\Quản Lí  Ship Hàng.pdb

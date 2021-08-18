@@ -1,0 +1,18 @@
+C:\Users\vanha\source\repos\Quản Lí  Ship Hàng\BussinessLogic\bin\Debug\BussinessLogic.dll
+C:\Users\vanha\source\repos\Quản Lí  Ship Hàng\BussinessLogic\bin\Debug\BussinessLogic.pdb
+C:\Users\vanha\source\repos\Quản Lí  Ship Hàng\BussinessLogic\bin\Debug\Data.dll
+C:\Users\vanha\source\repos\Quản Lí  Ship Hàng\BussinessLogic\bin\Debug\Data.pdb
+C:\Users\vanha\source\repos\Quản Lí  Ship Hàng\BussinessLogic\obj\Debug\BussinessLogic.csprojAssemblyReference.cache
+C:\Users\vanha\source\repos\Quản Lí  Ship Hàng\BussinessLogic\obj\Debug\BussinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\vanha\source\repos\Quản Lí  Ship Hàng\BussinessLogic\obj\Debug\BussinessLogic.csproj.CopyComplete
+C:\Users\vanha\source\repos\Quản Lí  Ship Hàng\BussinessLogic\obj\Debug\BussinessLogic.dll
+C:\Users\vanha\source\repos\Quản Lí  Ship Hàng\BussinessLogic\obj\Debug\BussinessLogic.pdb
+C:\Users\PHUONG\Downloads\Quản Lí  Ship Hàng\Quản Lí  Ship Hàng\BussinessLogic\bin\Debug\BussinessLogic.dll
+C:\Users\PHUONG\Downloads\Quản Lí  Ship Hàng\Quản Lí  Ship Hàng\BussinessLogic\bin\Debug\BussinessLogic.pdb
+C:\Users\PHUONG\Downloads\Quản Lí  Ship Hàng\Quản Lí  Ship Hàng\BussinessLogic\bin\Debug\Data.dll
+C:\Users\PHUONG\Downloads\Quản Lí  Ship Hàng\Quản Lí  Ship Hàng\BussinessLogic\bin\Debug\Data.pdb
+C:\Users\PHUONG\Downloads\Quản Lí  Ship Hàng\Quản Lí  Ship Hàng\BussinessLogic\obj\Debug\BussinessLogic.csprojAssemblyReference.cache
+C:\Users\PHUONG\Downloads\Quản Lí  Ship Hàng\Quản Lí  Ship Hàng\BussinessLogic\obj\Debug\BussinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\PHUONG\Downloads\Quản Lí  Ship Hàng\Quản Lí  Ship Hàng\BussinessLogic\obj\Debug\BussinessLogic.csproj.CopyComplete
+C:\Users\PHUONG\Downloads\Quản Lí  Ship Hàng\Quản Lí  Ship Hàng\BussinessLogic\obj\Debug\BussinessLogic.dll
+C:\Users\PHUONG\Downloads\Quản Lí  Ship Hàng\Quản Lí  Ship Hàng\BussinessLogic\obj\Debug\BussinessLogic.pdb

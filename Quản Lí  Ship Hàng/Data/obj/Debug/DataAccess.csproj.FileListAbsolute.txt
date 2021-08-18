@@ -1,0 +1,12 @@
+C:\Users\vanha\source\repos\Quản Lí  Ship Hàng\Data\bin\Debug\Data.dll
+C:\Users\vanha\source\repos\Quản Lí  Ship Hàng\Data\bin\Debug\Data.pdb
+C:\Users\vanha\source\repos\Quản Lí  Ship Hàng\Data\obj\Debug\DataAccess.csprojAssemblyReference.cache
+C:\Users\vanha\source\repos\Quản Lí  Ship Hàng\Data\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\vanha\source\repos\Quản Lí  Ship Hàng\Data\obj\Debug\Data.dll
+C:\Users\vanha\source\repos\Quản Lí  Ship Hàng\Data\obj\Debug\Data.pdb
+C:\Users\PHUONG\Downloads\Quản Lí  Ship Hàng\Quản Lí  Ship Hàng\Data\bin\Debug\Data.dll
+C:\Users\PHUONG\Downloads\Quản Lí  Ship Hàng\Quản Lí  Ship Hàng\Data\bin\Debug\Data.pdb
+C:\Users\PHUONG\Downloads\Quản Lí  Ship Hàng\Quản Lí  Ship Hàng\Data\obj\Debug\DataAccess.csprojAssemblyReference.cache
+C:\Users\PHUONG\Downloads\Quản Lí  Ship Hàng\Quản Lí  Ship Hàng\Data\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\PHUONG\Downloads\Quản Lí  Ship Hàng\Quản Lí  Ship Hàng\Data\obj\Debug\Data.dll
+C:\Users\PHUONG\Downloads\Quản Lí  Ship Hàng\Quản Lí  Ship Hàng\Data\obj\Debug\Data.pdb
